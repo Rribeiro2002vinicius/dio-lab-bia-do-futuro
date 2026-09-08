@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Ajudar as pessoas a desenvolver o interesse pelos investimentos e introduzi-las nesse mundo através de explicações simples.
+Ajudar as pessoas a entender os investimentos e introduzi-las nesse mundo através de explicações simples.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?

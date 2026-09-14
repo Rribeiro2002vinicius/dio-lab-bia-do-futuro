@@ -16,7 +16,7 @@
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Sua descrição aqui]
+Adicionei a variável custo_fixo_mensal e adicionei mais alguns produtos financeiros
 
 ---
 
@@ -25,13 +25,45 @@
 ### Como os dados são carregados?
 > Descreva como seu agente acessa a base de conhecimento.
 
-[ex: Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt]
+```python
+import panda as pd
+import json
+
+# CSV's
+historico = pd.read_csv('data/historico_atendimento.csv')
+transacoes = pd.read_csv('data/transacoes.csv')
+
+# JSON's
+with open('data/perfil_investidor.json', 'r', encoding='UTF-8') as f:
+perfil = json.load(f)
+
+with open('data/produtos_financeiros.json', 'r', encoding='UTF-8') as f:
+produtos = json.load(f)
+
+```
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-[Sua descrição aqui]
+```python
+import json
+import pandas as pd
 
+# Perfil e dados do cliente
+with open('data/perfil_investidor.json', 'r', encoding='UTF-8') as f:
+perfil = json.load(f)
+
+# Transacoes
+transacoes = pd.read_csv('data/transacoes.csv')
+
+# Produtos disponiveis
+with open('data/produtos_financeiros.json', 'r', encoding='UTF-8') as f:
+produtos = json.load(f)
+
+# Historico de atendimento
+historico = pd.read_csv('data/historico_atendimento.csv')
+
+```
 ---
 
 ## Exemplo de Contexto Montado
@@ -44,8 +76,21 @@ Dados do Cliente:
 - Perfil: Moderado
 - Saldo disponível: R$ 5.000
 
-Últimas transações:
-- 01/11: Supermercado - R$ 450
-- 03/11: Streaming - R$ 55
-...
+Gastos mensais:
+- Água: 150
+- Luz	: 300
+- Gás	: 150
+- Aluguel	: 2.000
+- IPTU : 100
+- Transporte	: 300
+- Alimentação	: 900
+
+Produtos disponiveis:
+- Tesouro Selic
+- CDB (Certificado de Depósito Bancário) - Liquidez Diária
+- LCI/LCA
+- Fundo Multimercado
+- Fundo de Ações
+- Tesouro IPCA
+- Fundo Imobiliário (FII)
 ```

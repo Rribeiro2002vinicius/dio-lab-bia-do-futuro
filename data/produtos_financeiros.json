@@ -31,7 +31,7 @@
     "nome": "Fundo Multimercado",
     "categoria": "fundos de investimento",
     "risco": "médio a alto (varia conforme a estratégia)",
-    "rentabilidade": CDI + 2%,
+    "rentabilidade": "CDI + 2%",
     "aporte_minimo": 500.00,
     "indicado_para": "Investidores que buscam diversificação e maior potencial de retorno",
     "peculiaridades": "Flexibilidade para investir em diferentes ativos (renda fixa, ações, câmbio, derivativos), permitindo estratégias variadas"

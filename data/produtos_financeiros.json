@@ -1,42 +1,66 @@
 [
   {
-    "nome": "Tesouro Selic",
+   "nome": "Tesouro Selic",
     "categoria": "renda_fixa",
     "risco": "baixo",
     "rentabilidade": "100% da Selic",
     "aporte_minimo": 30.00,
-    "indicado_para": "Reserva de emergência e iniciantes"
+    "indicado_para": "Reserva de emergência e iniciantes",
+    "peculiaridades": "Liquidez diária e menor oscilação de preço em relação a outros títulos públicos"
   },
   {
-    "nome": "CDB Liquidez Diária",
+    "nome": "CDB (Certificado de Depósito Bancário) - Liquidez Diária",
     "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "102% do CDI",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Quem busca segurança com rendimento diário"
-  },
-  {
-    "nome": "LCI/LCA",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "95% do CDI",
+    "risco": "baixo a médio",
+    "rentabilidade": "Percentual do CDI",
     "aporte_minimo": 1000.00,
-    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+    "indicado_para": "Reserva de emergência e investidores conservadores",
+    "peculiaridades": "Permite resgate a qualquer momento sem perda de rendimento, mas possui incidência de Imposto de Renda sobre os ganhos"
   },
   {
+   "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Percentual do CDI",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidores conservadores que buscam isenção de IR",
+    "peculiaridades": "Isenta de Imposto de Renda para pessoa física e lastreada em créditos imobiliários ou do agronegócio"
+  },
+  {
+   
     "nome": "Fundo Multimercado",
-    "categoria": "fundo",
-    "risco": "medio",
-    "rentabilidade": "CDI + 2%",
+    "categoria": "fundos de investimento",
+    "risco": "médio a alto (varia conforme a estratégia)",
+    "rentabilidade": CDI + 2%,
     "aporte_minimo": 500.00,
-    "indicado_para": "Perfil moderado que busca diversificação"
+    "indicado_para": "Investidores que buscam diversificação e maior potencial de retorno",
+    "peculiaridades": "Flexibilidade para investir em diferentes ativos (renda fixa, ações, câmbio, derivativos), permitindo estratégias variadas"
   },
   {
     "nome": "Fundo de Ações",
-    "categoria": "fundo",
+    "categoria": "fundos de investimento",
     "risco": "alto",
-    "rentabilidade": "Variável",
+    "rentabilidade": "Varia conforme desempenho da bolsa de valores, em 2025 o retorno médio foi de 31%",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Investidores que buscam exposição ao mercado acionário sem comprar ações diretamente",
+    "peculiaridades": "Obrigatoriamente deve ter pelo menos 67% do patrimônio investido em ações, a rentabilidade é muito volátil e possui alto risco"
+  },
+  {
+    "nome": "Tesouro IPCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "IPCA + juros prefixados",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Proteção contra inflação e médio/longo prazo",
+    "peculiaridades": "Além dos juros prefixados, acompanha a inflação medida pelo IPCA"
+  },
+  {
+    "nome": "Fundo Imobiliário (FII)",
+    "categoria": "fundos de investimento",
+    "risco": "médio",
+    "rentabilidade": "Varia conforme valorização dos imóveis e distribuição de aluguéis",
     "aporte_minimo": 100.00,
-    "indicado_para": "Perfil arrojado com foco no longo prazo"
-  }
+    "indicado_para": "Investidores que buscam renda passiva e diversificação",
+    "peculiaridades": "Distribui rendimentos mensais isentos de Imposto de Renda para pessoa física, mas pode ter oscilação de preço das cotas na bolsa. Existem vários tipos de FII's, tijolo, papel, fundo de fundos, fundos hibridos e fundos de desenvolvimento, cada um com sua rentabilidade e peculairidades"
+}
 ]

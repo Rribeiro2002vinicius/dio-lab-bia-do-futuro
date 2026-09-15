@@ -7,6 +7,8 @@
     "aporte_minimo": 30.00,
     "indicado_para": "Reserva de emergência e iniciantes",
     "peculiaridades": "Liquidez diária e menor oscilação de preço em relação a outros títulos públicos"
+    "pontos_positivos": "Baixo risco por ser garantido pelo Tesouro Nacional", "Liquidez diária", "Ideal para reserva de emergência",
+    "pontos_negativos": "Rentabilidade limitada à taxa Selic", "Pode perder atratividade em cenários de juros baixos"
   },
   {
     "nome": "CDB (Certificado de Depósito Bancário) - Liquidez Diária",
@@ -16,6 +18,9 @@
     "aporte_minimo": 1000.00,
     "indicado_para": "Reserva de emergência e investidores conservadores",
     "peculiaridades": "Permite resgate a qualquer momento sem perda de rendimento, mas possui incidência de Imposto de Renda sobre os ganhos"
+    "pontos_positivos": "Rentabilidade geralmente superior à poupança", "Liquidez diária permite resgate a qualquer momento", "Cobertura do FGC até R$ 250 mil por CPF e instituição",
+    "pontos_negativos": "Incidência de Imposto de Renda sobre os rendimentos", "Rentabilidade pode ser menor que outros CDBs sem liquidez diária"
+    
   },
   {
    "nome": "LCI/LCA",
@@ -25,6 +30,8 @@
     "aporte_minimo": 1000.00,
     "indicado_para": "Investidores conservadores que buscam isenção de IR",
     "peculiaridades": "Isenta de Imposto de Renda para pessoa física e lastreada em créditos imobiliários ou do agronegócio"
+    "pontos_positivos": "Isenção de Imposto de Renda para pessoa física", "Cobertura do FGC até R$ 250 mil por CPF e instituição", "Boa opção para diversificação em renda fixa",
+    "pontos_negativos": "Liquidez geralmente apenas no vencimento", "Aportes mínimos elevados em alguns bancos"
   },
   {
    
@@ -34,7 +41,9 @@
     "rentabilidade": "CDI + 2%",
     "aporte_minimo": 500.00,
     "indicado_para": "Investidores que buscam diversificação e maior potencial de retorno",
-    "peculiaridades": "Flexibilidade para investir em diferentes ativos (renda fixa, ações, câmbio, derivativos), permitindo estratégias variadas"
+    "peculiaridades": "Flexibilidade para investir em diferentes ativos (renda fixa, ações, câmbio, derivativos), permitindo estratégias variadas",
+    "pontos_positivos":  "Diversificação em diferentes classes de ativos", "Potencial de retorno superior à renda fixa", "Gestão profissional",
+    "pontos_negativos": "Taxas de administração e performance podem reduzir ganhos", "Maior risco e volatilidade em comparação à renda fixa", "Liquidez pode ser restrita (prazo para resgate)"
   },
   {
     "nome": "Fundo de Ações",
@@ -43,7 +52,9 @@
     "rentabilidade": "Varia conforme desempenho da bolsa de valores, em 2025 o retorno médio foi de 31%",
     "aporte_minimo": 500.00,
     "indicado_para": "Investidores que buscam exposição ao mercado acionário sem comprar ações diretamente",
-    "peculiaridades": "Obrigatoriamente deve ter pelo menos 67% do patrimônio investido em ações, a rentabilidade é muito volátil e possui alto risco"
+    "peculiaridades": "Obrigatoriamente deve ter pelo menos 67% do patrimônio investido em ações, a rentabilidade é muito volátil e possui alto risco",
+    "pontos_positivos": "Exposição ao mercado acionário sem necessidade de escolher ações individuais", "Potencial de altos retornos no longo prazo", "Gestão profissional",
+    "pontos_negativos": "Alto risco e volatilidade", "Taxas de administração e performance", "Possibilidade de perdas significativas em períodos de queda da bolsa"
   },
   {
     "nome": "Tesouro IPCA",
@@ -52,7 +63,9 @@
     "rentabilidade": "IPCA + juros prefixados",
     "aporte_minimo": 30.00,
     "indicado_para": "Proteção contra inflação e médio/longo prazo",
-    "peculiaridades": "Além dos juros prefixados, acompanha a inflação medida pelo IPCA"
+    "peculiaridades": "Além dos juros prefixados, acompanha a inflação medida pelo IPCA",
+    "pontos_positivos": "Proteção contra inflação", "Baixo risco por ser garantido pelo Tesouro Nacional", "Ideal para objetivos de médio e longo prazo",
+    "pontos_negativos": "Oscilações de preço no curto prazo podem gerar perdas se vendido antes do vencimento", "Liquidez diária com risco de marcação a mercado"
   },
   {
     "nome": "Fundo Imobiliário (FII)",
@@ -62,5 +75,7 @@
     "aporte_minimo": 100.00,
     "indicado_para": "Investidores que buscam renda passiva e diversificação",
     "peculiaridades": "Distribui rendimentos mensais isentos de Imposto de Renda para pessoa física, mas pode ter oscilação de preço das cotas na bolsa. Existem vários tipos de FII's, tijolo, papel, fundo de fundos, fundos hibridos e fundos de desenvolvimento, cada um com sua rentabilidade e peculairidades"
+    "pontos_positivos": "Rendimentos mensais isentos de Imposto de Renda para pessoa física", "Exposição ao mercado imobiliário sem necessidade de comprar imóveis", "Diversificação em diferentes tipos de FIIs (tijolo, papel, híbrido, etc.)",
+    "pontos_negativos": "Oscilação de preço das cotas na bolsa", "Dependência do mercado imobiliário e da taxa de juros", "Taxas de administração podem reduzir a rentabilidade"
 }
 ]

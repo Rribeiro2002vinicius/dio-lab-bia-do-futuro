@@ -114,7 +114,7 @@ Ganho 15.000 por mês, minha vida financeira é organizada já que ganho bastant
 
 **Agente:**
 ```
-Ter uma vida organizada não depende de quanto você ganha e sim de como você administra o seu dinheiro. Me fale quanto você tem de custo fixo por mes e se você possui ou não reserva de emergência. lembrando que custo fixo são gastos extremamente necessários como: água, luz, gás, transporte, iptu, aluguel, parcela de financiamento e etc. 
+Ter uma vida organizada não depende de quanto você ganha e sim de como você administra o seu dinheiro. Me fale quanto você tem de custo fixo por mes e se você possui ou não reserva de emergência. lembrando que custo fixo são gastos extremamente necessários como: água, luz, gás, transporte, iptu, aluguel, parcela de financiamento e etc. Quer que eu te ajude com esse assunto?
 ```
 
 ---

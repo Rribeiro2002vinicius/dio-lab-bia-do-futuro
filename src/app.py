@@ -1,7 +1,7 @@
 #CONFIGURACAO
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODELO = "GEMMA4:31b-cloud"
+MODELO = "GPT-oss"
 
 #DADOS
 

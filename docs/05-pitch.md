@@ -1,44 +1,40 @@
-# Pitch (3 minutos)
+# Pitch
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
 ## Roteiro Sugerido
 
-### 1. O Problema (30 seg)
+### 1. O Problema 
 > Qual dor do cliente você resolve?
 
-[Sua descrição aqui]
+Desorganização financeira.
 
-### 2. A Solução (1 min)
+### 2. A Solução 
 > Como seu agente resolve esse problema?
 
-[Sua descrição aqui]
+Através de infromações fornecidas pelos clientes para entender a melhor forma de se organizar e investir posteriormente.
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+### 3. Demonstração
+> Mostre o agente funcionando
 
-[Descreva o que será mostrado]
+Funcionamento básico do agente e como ele se comnprota durante os atendimentos. No caso, é um cliente que gasta muito mensalmente e tem a intenção de se organizar, completar sua reserva de emergência e dar entrada no seu apartamento.
 
-### 4. Diferencial e Impacto (30 seg)
+### 4. Diferencial e Impacto
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
-[Sua descrição aqui]
+É uma solução simples e muito eficaz para os brasileiros que por sua maioria carecem de conhecimento financeiro básico.
 
 ---
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- &#x2705; Duração máxima de 3 minutos
+- &#x2705; Problema claramente definido
+- &#x2705; Solução demonstrada na prática
+- &#x2705; Diferencial explicado
+- &#x2705; Áudio e vídeo com boa qualidade
 
 ---
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
+https://drive.google.com/file/d/1SIDd2ghxEI2W4jpyaQVcAhAouxLB90lU/view?usp=drive_link
